@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545927267 source:c:\users\administrator\desktop\计网课设\实验一\client\main.cpp
+	<stdio.h>
+	<Winsock2.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1546520496 source:c:\users\administrator\desktop\计网课设\实验一\server\main.cpp
+	<stdio.h>
+	<queue>
+	<string.h>
+	<Winsock2.h>
+
+1546689091 source:f:\计网课设资料\计网课设\实验一\server\main.cpp
+	<stdio.h>
+	<queue>
+	<string.h>
+	<Winsock2.h>
+
